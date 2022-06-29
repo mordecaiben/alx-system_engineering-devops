@@ -1,2 +1,2 @@
 #!/bin/bash
-103-the_biggest_fan
+cut -d : -f 1,6/etc/passwd | sort
